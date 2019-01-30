@@ -1,3 +1,3 @@
 function theBeatlesPlay(musicians,instruments)
   var = []
-  for ()
+  for (var i = 0, i)
